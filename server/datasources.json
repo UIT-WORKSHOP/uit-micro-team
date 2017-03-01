@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "url": "mongodb://tan:123@localhost:27017/uit-micro-team",
+    "database": "uit-micro-team",
+    "password": "123",
+    "name": "mongo",
+    "user": "tan",
+    "connector": "mongodb"
+  }
+}
