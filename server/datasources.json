@@ -4,13 +4,12 @@
     "connector": "memory"
   },
   "mongo": {
-    "host": "127.0.0.1",
-    "port": 27017,
-    "url": "mongodb://tan:123@localhost:27017/uit-micro-team",
-    "database": "uit-micro-team",
-    "password": "123",
+    "host": "ds113680.mlab.com",
+    "port": 13680,
+    "database": "heroku_12xgjq6v",
+    "password": "123z",
     "name": "mongo",
-    "user": "tan",
+    "user": "pandapoe",
     "connector": "mongodb"
   }
 }
